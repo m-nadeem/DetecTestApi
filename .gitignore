@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DetecTestApi/bin/Debug/net8.0
+/DetecTestApi/obj
+/DetecTestApi.Models/bin/Debug/net8.0
+/DetecTestApi.Models/obj
+/DetecTestApi.Services/obj
+/DetecTestApi.Tests/bin/Debug/net8.0
+/DetecTestApi.Tests/obj
+/DetecTestApi.Services/bin/Debug/net8.0
+/.vs/DetecTestApi/v17
+/.vs
